@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Nirvaan Lagishetty
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/> I'm Nirvaan Lagishetty
 
 Welcome to my GitHub portfolio! I'm a **20-year-old Data Science enthusiast** and recent BSc Data Science graduate from the University of Mumbai, passionate about turning data into actionable insights.
 
