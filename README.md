@@ -176,19 +176,19 @@ A computer vision project designed to detect skin diseases using deep learning
 - **Key Features**: Image preprocessing, CNN architecture, disease classification  
 - **Impact**: Assists in early detection of various skin conditions through AI-powered analysis  
 
-### 🍳 Ez Cooking
+### **[🍳 Ez Cooking](https://github.com/Nirvaan05/Ez-Cooking)**
 Smart recipe generator that creates personalized recipes based on ingredients available in your fridge  
 - **Tech Stack**: Python, NLP, Machine Learning, Recipe APIs  
 - **Key Features**: Ingredient recognition, recipe recommendation, nutritional analysis  
 - **Innovation**: Reduces food waste by suggesting creative recipes from available ingredients  
 
-### 🤖 Contextual Emoji Assistant
+### **[🤖 Contextual Emoji Assistant](https://github.com/Nirvaan05/Contextual-Emoji-Assistant)** 
 Smart emoji assistant powered by NLP and Google Gemini API for contextual emoji suggestions  
 - **Tech Stack**: Python, NLP, Google Gemini API, Natural Language Processing  
 - **Key Features**: Context understanding, intelligent emoji recommendations, API integration  
 - **Enhances**: Digital marketing and communication through AI-driven emoji selection  
 
-### 🏎️ F1 Winner Predictor
+###  **[🏎️ F1 Winner Predictor](https://github.com/Nirvaan05/F1-Winner-Predictor-)**
 Machine learning model to predict Formula 1 race winners using historical data and racing analytics  
 - **Tech Stack**: Python, Pandas, Scikit-learn, Data Analysis  
 - **Key Features**: Historical race data analysis, driver performance metrics, predictive modeling  
@@ -208,7 +208,7 @@ Machine learning model to predict Formula 1 race winners using historical data a
 ## 📫 Let's Connect!
 
 - 📧 **Email**: nirvaanlagishetty@gmail.com  
-- 💼 **LinkedIn**:linkedin.com/in/nirvaan-lagishetty
+- 💼 **LinkedIn**: linkedin.com/in/nirvaan-lagishetty
 - 📱 **Portfolio Website**: 🚧 *Coming Soon!* 🚧
 ---
 
