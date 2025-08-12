@@ -170,7 +170,7 @@ Welcome to my GitHub portfolio! I'm a **20-year-old Data Science enthusiast** an
 
 ## 📈 Featured Projects
 
-### 🔬 DermAnalyzer  
+### 🔬 **[DermAnalyzer](https://github.com/Nirvaan05/DermAnalyzer-v1).**  
 A computer vision project designed to detect skin diseases using deep learning  
 - **Tech Stack**: Python, TensorFlow/Keras, OpenCV, Computer Vision  
 - **Key Features**: Image preprocessing, CNN architecture, disease classification  
