@@ -2,6 +2,10 @@
 
 Welcome to my GitHub portfolio! I'm a **20-year-old Data Science enthusiast** and recent BSc Data Science graduate from the University of Mumbai, passionate about turning data into actionable insights.
 
+🎯 **Check out my [Interactive Portfolio](https://chat-portfolio-drab.vercel.app/)!**  
+A chat-based experience where you can explore my projects, skills, and more in an engaging way.  
+
+---
 ## 🎓 About Me
 
 - 🔬 **Recent Graduate**: BSc Data Science from University of Mumbai  
