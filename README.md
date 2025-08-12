@@ -85,6 +85,12 @@ Welcome to my GitHub portfolio! I'm a **20-year-old Data Science enthusiast** an
 
 ## 📈 Featured Projects
 
+### **[💬 Database Chatbot – SQL Assistant](https://github.com/Nirvaan05/Database-Chatbot) · [🚀 Live Demo ](https://chat-portfolio-drab.vercel.app/)**  
+Natural Language → SQL assistant that lets users query a database in plain English  
+- **Tech Stack**: Python, FastAPI, OpenAI/Gemini API, SQL  
+- **Key Features**: NL-to-SQL translation, database querying, conversational interface  
+- **Utility**: Simplifies complex database interactions for non-technical users  
+
 ### 🔬 **[DermAnalyzer](https://github.com/Nirvaan05/DermAnalyzer-v1).**  
 A computer vision project designed to detect skin diseases using deep learning  
 - **Tech Stack**: Python, TensorFlow/Keras, OpenCV, Computer Vision  
