@@ -91,7 +91,7 @@ A chat-based experience where you can explore my projects, skills, and more in a
 
 ### **[💬 Database Chatbot – SQL Assistant](https://github.com/Nirvaan05/Database-Chatbot) · [🚀 Live Demo ](https://database-chatbot.vercel.app/))**  
 Natural Language → SQL assistant that lets users query a database in plain English  
-- **Tech Stack**: Python, FastAPI, OpenAI/Gemini API, SQL  
+- **Tech Stack**: Python, FastAPI, Gemini API, SQL, RAG, Vector DB (Embeddings) 
 - **Key Features**: NL-to-SQL translation, database querying, conversational interface  
 - **Utility**: Simplifies complex database interactions for non-technical users  
 
