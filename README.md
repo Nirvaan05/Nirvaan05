@@ -2,7 +2,7 @@
 
 **Cloud & AI Engineer | Backend Systems | Production AI Products**
 
-🎯 **Check out my [Portfolio](https://chat-portfolio-drab.vercel.app/)!**  
+🎯 **Check out my [Portfolio](https://nirvaan.dev)!**  
 
 I design, build, and operate **production-grade backend systems and AI-powered products**, with hands-on experience across **cloud infrastructure, scalable APIs, and data-driven pipelines**. I've owned features end-to-end - from system design and implementation to deployment, monitoring, and iteration in real production environments.
 
