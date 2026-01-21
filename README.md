@@ -1,89 +1,96 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/> I'm Nirvaan Lagishetty
 
-Welcome to my GitHub portfolio! I'm a **20-year-old Data Science enthusiast** and recent BSc Data Science graduate from the University of Mumbai, passionate about turning data into actionable insights.
+**Cloud & AI Engineer | Backend Systems | Production AI Products**
 
-🎯 **Check out my [Interactive Portfolio](https://chat-portfolio-drab.vercel.app/)!**  
-A chat-based experience where you can explore my projects, skills, and more in an engaging way.  
+🎯 **Check out my [Portfolio](https://chat-portfolio-drab.vercel.app/)!**  
 
----
-## 🎓 About Me
+I design, build, and operate **production-grade backend systems and AI-powered products**, with hands-on experience across **cloud infrastructure, scalable APIs, and data-driven pipelines**. I've owned features end-to-end - from system design and implementation to deployment, monitoring, and iteration in real production environments.
 
-- 🔬 **Recent Graduate**: BSc Data Science from University of Mumbai  
-- 📊 **Passionate about**: Machine Learning, Data Analytics, and Statistical Modeling  
-- 🌱 **Currently Learning**: Advanced ML algorithms and cloud technologies  
-- 💡 **Goal**: To leverage data science to solve real-world problems  
+## What I Do
 
+▸ Design and ship **backend services** using FastAPI, Docker, and AWS  
+▸ Build **AI-powered features** using LLMs, RAG pipelines, embeddings, and APIs  
+▸ Design and operate **cloud-backed systems** (EC2, S3, IAM, SES) with security and reliability in mind  
+▸ Own **production workflows** CI/CD, environment configuration, debugging, and monitoring  
+▸ Translate ambiguous requirements into **reliable, shipped systems**
 
-### 🛠 Technical Skills and Tools
+## Technical Skills & Tooling
 
-
-
-<div align="center">
-
-## **Programming Languages**
+### Programming Languages
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 
-## **Machine Learning & AI**
-[![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
-[![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://scikit-learn.org/stable/unsupervised_learning.html)
-[![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://scikit-learn.org/stable/modules/feature_extraction.html)
-[![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/modules/model_evaluation.html)
-[![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter_Tuning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://scikit-learn.org/stable/modules/grid_search.html)
-[![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
-[![NLP](https://img.shields.io/badge/NLP-5C3EE8?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io)
-[![Time Series](https://img.shields.io/badge/Time_Series_Forecasting-306998?style=for-the-badge&logo=python&logoColor=white)](https://www.tableau.com/analytics/time-series-forecasting)
+### Backend & Distributed Systems
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)](https://restfulapi.net)
+[![Async Python](https://img.shields.io/badge/Async_IO-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html)
+[![Webhooks](https://img.shields.io/badge/Webhooks-673AB7?style=for-the-badge)](https://webhooks.io)
+[![Background Workers](https://img.shields.io/badge/Background_Jobs-4CAF50?style=for-the-badge)](https://fastapi.tiangolo.com/tutorial/background-tasks/)
+[![API Security](https://img.shields.io/badge/API_Security-8E24AA?style=for-the-badge)](https://owasp.org/www-project-api-security/)
 
-## **AI & LLM APIs**
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
-[![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com)
-[![Claude](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com)
-[![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/cognitive-services/openai-service)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)](https://www.langchain.com)
-[![RAG](https://img.shields.io/badge/RAG_Basics-0F9D58?style=for-the-badge&logo=vectorworks&logoColor=white)](https://www.pinecone.io/learn/retrieval-augmented-generation/)
-[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FFB400?style=for-the-badge)](https://learnprompting.org)
-[![Tool Use](https://img.shields.io/badge/Function_Calling-4CAF50?style=for-the-badge)](https://platform.openai.com/docs/guides/function-calling)
+**Core Concepts:** Request lifecycle · Pagination · Filtering · Rate limiting · Idempotency · API versioning · Webhook ingestion
 
-## **Data Analysis & Visualization**
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com)
-
-## **Databases**
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-
-
-## **Cloud & Infrastructure**
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+### Cloud & Infrastructure (AWS: Hands-on)
+[![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ec2/)
+[![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/s3/)
+[![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://docs.aws.amazon.com/iam/)
+[![AWS SES](https://img.shields.io/badge/AWS_SES-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ses/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
+**Infrastructure Concepts:** IAM least-privilege policies · Environment-based configuration · Secrets management · Reverse proxy & load routing · Multi-tenant architectures · Cost-aware design
 
-## **Big Data & Advanced Analytics**
-[![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)](https://spark.apache.org)
-[![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org)
-[![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org)
+### Reliability, Observability & DevOps
+[![Logging](https://img.shields.io/badge/Structured_Logging-607D8B?style=for-the-badge)](https://12factor.net/logs)
+[![Metrics](https://img.shields.io/badge/Metrics_&_Monitoring-03A9F4?style=for-the-badge)](https://opentelemetry.io/)
+[![Health Checks](https://img.shields.io/badge/Health_Checks-4CAF50?style=for-the-badge)](https://microservices.io/patterns/observability/health-check-api.html)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-795548?style=for-the-badge)](https://martinfowler.com/articles/continuousIntegration.html)
 
+**Operational Practices:** Retries · Timeouts · Graceful failures · Zero-downtime deployments · Rollbacks
 
-## **Development Environment**
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+### AI, LLMs & ML Systems
+[![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com/docs)
+[![RAG](https://img.shields.io/badge/RAG_Pipelines-0F9D58?style=for-the-badge)](https://www.pinecone.io/learn/retrieval-augmented-generation/)
+[![Embeddings](https://img.shields.io/badge/Embeddings-795548?style=for-the-badge)](https://platform.openai.com/docs/guides/embeddings)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FFB400?style=for-the-badge)](https://learnprompting.org)
+
+**ML System Concerns:** Latency optimization · Token cost control · Model evaluation · Data preprocessing
+
+### Databases & Data Engineering
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![ETL](https://img.shields.io/badge/ETL_Pipelines-9C27B0?style=for-the-badge)](https://www.ibm.com/topics/etl)
+
+### Frontend & Web Engineering
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+**Frontend Focus:** Server-side rendering (SSR) & static generation (SSG) · API-driven UIs & dashboard interfaces · Authentication-aware frontend flows · Performance-focused UI design
+
+---
+
+## Production Experience
+
+### Founding Engineer - PilotMail (Makhija Quantum AI)
+**Nov 2025 – Jan 2026 | Mumbai, India**
+
+▸ Owned **100% of application-layer development** for a no-code email campaign SaaS  
+▸ Designed and shipped **containerized FastAPI services** for campaigns, scheduling, contact ingestion, and analytics  
+▸ Built **event-driven tracking pipelines** for email opens, clicks, bounces, and replies  
+▸ Integrated **LLM-powered features** (email drafting, personalization, embeddings, RAG), optimized for latency and cost  
+▸ Configured **AWS infrastructure** (EC2, S3, IAM, SES, SES v2) for production usage  
+▸ Implemented **CI/CD pipelines** using GitHub Actions and Docker  
+▸ Debugged cross-system issues across backend services, email infrastructure, and cloud resources
+
+> **Focus:** reliability, scalability, and shipping systems that work in production
+
+---
 
 </div>
 
@@ -132,25 +139,28 @@ Machine learning model to predict Formula 1 race winners using historical data a
 
 ## 📫 Let's Connect!
 
+- 📱  [**Portfolio**](https://nirvaan.dev)
 - 💬 [**Chat-based Interactive Portfolio**](https://chat-portfolio-drab.vercel.app/)
 - 📧 **Email** : nirvaanlagishetty@gmail.com  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/nirvaan-lagishetty/)
-- 📱 **Portfolio Website**: 🚧 *Coming Soon!* 🚧
 
+---
+## Currently Working On
+
+![Production Ready](https://img.shields.io/badge/Code-Production%20Ready-success?style=for-the-badge&logo=checkmarx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Daily%20Driver-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+▸ Designing **multi-tenant email systems** using AWS SES v2  
+▸ Writing **least-privilege IAM policies** for production environments  
+▸ Improving **NGINX performance tuning** and reverse proxy setups  
+▸ Building more **production-grade AI tooling**
 
 ---
 
-## 🎯 What I'm Working On
-
-- 🔍 Exploring **deep learning** applications in computer vision  
-- 🗺️ Building a **Geo-Data Visualizer** with interactive maps for spatial analysis  
-- 🌐 Learning **cloud deployment** for ML models  
-
----
 
 ## 💭 Fun Facts About Me
 
 - 🥙 Professional Shawarma taste-tester (self-appointed, highly qualified)  
 - 📚 Can spoil your favorite manhwa faster than your internet can buffer.  
-- 🎮 Soulslike games expert — mostly in dying creatively.  
+- 🎮 Soulslike games expert - mostly in dying creatively.  
 - ⚽ My football tactics dominate… until they leave FIFA and meet reality. 
