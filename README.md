@@ -4,6 +4,10 @@
 
 I turn business workflows into software that can reason, use tools and execute work. I work across the agents, backend and infrastructure, from the first requirement through deployment and production debugging.
 
+## My portfolio is a game
+
+[nirvaan.biz](https://nirvaan.biz) is a retro CRT video game, not a portfolio website. Yukti, my guide character, walks you through four story routes in pixel-art scenes, with game subtitles and front-panel keys on the CRT cabinet. I art-directed and built it with a team of coding and design agents that coordinated over [ARDA](https://github.com/Nirvaan05/arda), my open-source Herdr plugin. Prefer plain text? Read [the profile](https://nirvaan.biz/profile).
+
 ## What I build
 
 **Workflows that act:** research, interpret context and use APIs or browsers, with human approval for consequential actions.
@@ -18,9 +22,11 @@ I turn business workflows into software that can reason, use tools and execute w
 
 **Execution and backends:** Python, TypeScript, FastAPI, PostgreSQL, Temporal, Playwright.
 
-**Deployment:** Docker, Linux, AWS and CI/CD. My broader foundation includes machine learning and computer vision.
+**Deployment:** Docker, Linux, AWS (EC2, RDS, S3, SES v2, CloudWatch), Cloudflare Workers and CI/CD. My broader foundation includes machine learning and computer vision.
 
 ## Selected public work
+
+[ARDA](https://github.com/Nirvaan05/arda): a Herdr plugin that lets coding agents find each other and work as one team across sessions and machines.
 
 [Bleu](https://github.com/Nirvaan05/Bleu-Plugin): a Claude Code plugin that keeps engineering plans, decisions and handoffs in files across sessions.
 
