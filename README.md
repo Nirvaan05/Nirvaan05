@@ -6,7 +6,7 @@ I turn business workflows into software that can reason, use tools and execute w
 
 ## My portfolio is a game
 
-[nirvaan.biz](https://nirvaan.biz) is a retro CRT video game, not a portfolio website. Yukti, my guide character, walks you through four story routes in pixel-art scenes, with game subtitles and front-panel keys on the CRT cabinet. I art-directed and built it with a team of coding and design agents that coordinated over [ARDA](https://github.com/Nirvaan05/arda), my open-source Herdr plugin. Prefer plain text? Read [the profile](https://nirvaan.biz/profile).
+[nirvaan.biz](https://nirvaan.biz) is a retro CRT video game, not a portfolio website. Yukti, my guide character, walks you through four story routes in pixel-art scenes, with game subtitles and front-panel keys on the CRT cabinet. I art-directed and built it with a team of coding and design agents that coordinated over [ARDA](https://github.com/Nirvaan05/arda), my open-source Herdr plugin. Short on time? Go for the [overview mode](https://nirvaan.biz/quick).
 
 ## What I build
 
